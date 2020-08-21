@@ -1,6 +1,6 @@
 # Sistemas1_NASM
 
-# En GNU/Linux de 64 bits (Previamente, en Ubuntu, hay que ejecutar: sudo apt-get install libc6-dev-i386):
+En GNU/Linux de 64 bits (Previamente, en Ubuntu, hay que ejecutar: sudo apt-get install libc6-dev-i386):
 
 # 1) nasm -f elf ej1.asm
 
