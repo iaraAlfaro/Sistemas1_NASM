@@ -1,4 +1,4 @@
-# Sistemas1_NASM
+Sistemas1_NASM
 
 En GNU/Linux de 64 bits (Previamente, en Ubuntu, hay que ejecutar: sudo apt-get install libc6-dev-i386):
 
